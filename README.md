@@ -1,4 +1,5 @@
 # Machine Learning Projects
 A collection of ML projects used to practice with ML tools, concepts and libraries
-## Datasets
+## Projects
 [Iris](./Iris)
+[Loans](./Loan Prediction)
